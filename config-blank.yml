@@ -1,0 +1,11 @@
+general:
+  rate_of_check_seconds: 60
+permitium:
+  order_number: "<placeholder>"
+  email_address: "<placeholder>"
+  password: "<placeholder>"
+twilio:
+  account_sid: "<placeholder>"
+  auth_token: "<placeholder>"
+  sender_phone: "<placeholder>"
+  receiver_phone: "<placeholder>"
